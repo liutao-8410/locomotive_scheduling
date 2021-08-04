@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ASCII"?><project>
 	<version>1.0</version>
 	<configs>
-		<config category="opl" default="true" name="configuration1">
-			<ref name="sixth.mod" type="model">
+		<config category="opl" default="false" name="configuration1">
+			<ref name="storehouse.mod" type="model">
 			</ref>
-			<ref name="lp_data.dat" type="data">
+			<ref name="starehouse_data.dat" type="data">
 			</ref>
 		</config>
 	</configs>
